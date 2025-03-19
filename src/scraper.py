@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from loguru import logger as log
 
 
 def get_data(soup: BeautifulSoup | None = None) -> dict[str, str]:
@@ -19,14 +20,44 @@ def get_data(soup: BeautifulSoup | None = None) -> dict[str, str]:
     if not tr_all:
         print("No <tr> elements found in <tbody>")
         return {'issue': "No <tr> elements found in <tbody>"}
-
-    tr_all_5 = tr_all[:5].copy()  # Limit to the first 5 rows
     
-    school_name = tr_all_5[0].text.split('(')[0].strip()
-    address = tr_all_5[1].text.strip() + ' ' + tr_all_5[2].text.strip()
-    colors = tr_all_5[3].text.split(':')[1].strip()
-    mascot = tr_all_5[4].text.split(':')[1].strip()
+    # school_name extraction
+    school_name = tr_all[0].text.split('(')[0].strip()
+    log.info(f"{school_name}")
 
+    # address extraction (handles the dynamic number of rows)
+    address = ""
+    found_colors_or_mascot = False  # Flag to indicate whether we've found "Colors" or "Mascot"
+
+    # Iterate through tr_all from index 1 onwards
+    for i in range(1, len(tr_all)):
+        # If we encounter a row starting with "Colors" or "Mascot", stop and skip adding to address
+        if tr_all[i].text.startswith("Colors") or tr_all[i].text.startswith("Mascot"):
+            found_colors_or_mascot = True
+            break
+        # Add the current row text to the address if we haven't encountered "Colors" or "Mascot"
+        address += tr_all[i].text.strip() + " "
+
+    address = address.strip()  # Clean up extra spaces
+    log.info(f"Address: {address if address else 'N/A'}")  # Handle empty address case
+
+    # Colors extraction (handling if no "Colors" row exists)
+    colors = "N/A"  # Default value for colors
+    for i in range(1, len(tr_all)):
+        if tr_all[i].text.startswith("Colors"):
+            colors = tr_all[i].text.split(":")[1].strip()  # Extract colors after ":"
+            break
+    log.info(f"Colors: {colors}")
+
+    # Mascot extraction (handling if no "Mascot" row exists)
+    mascot = "N/A"  # Default value for mascot
+    for i in range(1, len(tr_all)):
+        if tr_all[i].text.startswith("Mascot"):
+            mascot = tr_all[i].text.split(":")[1].strip()  # Extract mascot after ":"
+            break
+    log.info(f"Mascot: {mascot}")
+
+    
     data = {
         "school_name": str(school_name),
         "address": str(address),

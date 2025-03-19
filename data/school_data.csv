@@ -2,3 +2,455 @@ school_name,address,mascot,colors
 Academy for Classical Education,"5665 New Forsyth Road Macon, GA 31210",Gryphon,Royal Blue & Emerald Green
 Adairsville High School,"519 Old Highway 41, NW Adairsville, GA 30103",Tigers,"Green, White & Vegas Gold"
 Alcovy High School,"14567 Highway 36 Covington, GA 30014",Tigers,Black & Safety Gold
+Alexander High School,"6500 Alexander Parkway Douglasville, GA 30135-3596",Cougars,"University Red, Black, & Silver"
+Allatoona High School,"3300 Dallas Acworth Hwy Acworth, GA 30101",Buccaneers,"Red, Black & Silver"
+Alpharetta High School,"3595 Webb Bridge Road Alpharetta, GA 30005",Raiders,"Black, Cardinal  & Silver"
+Apalachee High School,"940 Haymon Morris Road Winder, GA 30680",Wildcats,Navy & Gold
+Appling County High School,"482 Blackshear Hwy Baxley, GA 31513",Pirates,"Red, White & Black"
+Aquinas High School,"1920 Highland Avenue Augusta, GA 30904-5305",Fightin' Irish,Forest Green & Vegas Gold
+Arabia Mountain High School,"6610 Browns Mill Road Stonecrest, GA 30038",Rams,"Winter Green, White & Navy"
+Archer High School,"2255 New Hope Road Lawrenceville, GA 30045-6560",Tigers,"Red, Silver & White"
+Armuchee High School,"4203 Martha Berry Highway, NW Rome, GA 30165",Indians,"Blue, Silver & White"
+Athens Academy,"1281 Spartan Lane Athens, GA 30606",Spartans,Forest Green & White
+Atkinson County High School,"145 Rebel Lane Pearson, GA 31642-9225",Rebels,"Red, White & Gray"
+Atlanta Classical Academy,"3260 Northside Drive, NW Atlanta, GA 30305",Cavaliers,"Navy, Light Blue & White"
+Atlanta International School,"2890 North Fulton Drive Atlanta, GA 30305-3155",Eagles,"Royal Blue, White, Black"
+B.E.S.T. Academy,"1190 Northwest Drive, NW Atlanta, GA 30318",Eagles,Navy & Old Gold
+Bacon County High School,"1190 Highway US 1 South Alma, GA 31510",Red Raiders,"Red, White & Black"
+Baconton Charter School,"260 East Walton Street Baconton, GA 31716",Blazers,Navy & White
+Bainbridge High School,"1 Bearcat Boulevard Bainbridge, GA 39819",Bearcats,Purple & Gold
+Baker County High School,"260 GA Highway 37, SW Newton, GA 39870-8212",Bears,"Black, Gold & White"
+Baldwin High School,"155 Highway 49 West Milledgeville, GA 31061-3600",Braves,"Red, Black & White"
+Banks County High School,"1486 A Historic Homer Highway Homer, GA 30547",Leopards,Blue & White
+Banneker High School,"6015 Feldwood Road Atlanta, GA 30349-3649",Trojans,Red & Silver
+Barrow Arts & Sciences Academy,"1007 Austin Road Winder, GA 30680",Blazers,Royal Blue/Silver
+Beach High School,"3001 Hopkins Street Savannah, GA 31405",Bulldogs,Blue & Gold
+Ben Franklin Academy,"1585 Clifton Road NE Atlanta, GA 30329",Patriots,Navy & White
+Benedictine Military School,"6502 Seawright Drive Savannah, GA 31406",Cadets,Maroon & White
+Berkmar High School,"405 Pleasant Hill Road Lilburn, GA 30047",Patriots,"Red, White & Navy"
+Berrien High School,"500 East Smith Avenue Nashville, GA 31639",Rebels,Red & Gray
+Bleckley County High School,"155 GA-87 Cochran, GA 31014",Royals,Purple & Gold
+Blessed Trinity High School,"11320 Woodstock Road Roswell, GA 30075-2548",Titans,Hunter Green & Vegas Gold
+Bowdon High School,"504 West College Street Bowdon, GA 30108-1302",Red Devils,Red & Black
+Bradwell Institute,"100 Pafford Street Hinesville, GA 31313-3199",Tigers,Royal Blue & Gold
+Brantley County High School,"10804 Highway 82 Nahunta, GA 31553-9710",Herons,Navy Blue & Vegas Gold
+Bremen High School,"529 Laurel Street Bremen, GA 30110",Blue Devils,Royal Blue & White
+Brooks County High School,"1801 Moultrie Road Quitman, GA 31643",Trojans,"Red, White & Blue"
+Brookwood High School,"1255 Dogwood Road Snellville, GA 30078-2249",Broncos,Maroon & Gold
+Brunswick High School,"3885 Altama Avenue Brunswick, GA 31520",Pirates,Blue & Gold
+Bryan County High School,"1234 Camellia Drive Pembroke, GA 31321",Redskins,Red & White
+Buford High School,"2455 Buford Highway NE Buford, GA 30518",Wolves,"Green, Gold & White"
+Burke County High School,"1057 Burke Veterans Parkway Waynesboro, GA 30830",Bears,"Black, White & Royal Blue"
+Butler High School,"2011 Lumpkin Road Augusta, GA 30906",Bulldogs,"Gold, White & Black"
+Cairo High School,"455 5th Street, SE Cairo, GA 39828",Syrupmakers,Red & Black
+Calhoun High School,"355 South River Street Calhoun, GA 30701",Yellow Jackets,Black & Vegas Gold
+Calhoun County High School,"366 Cougar Lane Edison, GA 39846",Cougars,"Red, White & Royal Blue"
+Callaway High School,"221 Whitfield Road Hogansville, GA 30230-3209",Cavaliers,"Crimson, Black & White"
+Calvary Day School,"4625 Waters Avenue Savannah, GA 31404",Cavaliers,Purple & Gold
+Cambridge High School,"2845 Bethany Bend Milton, GA 30004",Bears,"Navy, Carolina Blue & White"
+Camden County High School,"6300 Laurel Island Parkway Athletic Department Kingsland, GA 31548",Wildcats,Columbia Blue & White
+Campbell High School,"925 Powder Springs Street Smyrna, GA 30080-1944",Spartans,Royal Blue & Silver
+Carrollton High School,"201 Trojan Drive Carrollton, GA 30117",Trojans,Black & Old Gold
+Cartersville High School,"320 East Church Street Cartersville, GA 30120",Purple Hurricanes,Purple & Vegas Gold
+Carver High School,"55 McDonough Blvd SE Atlanta, GA 30315",Panthers,"Maroon, Gray & White"
+Carver High School,"3100 8th Street Columbus, GA 31906",Tigers,Crimson & Columbia Blue
+Cass High School,"1000 Colonel Way, NE White, GA 30184-2619",Colonels,Royal Blue & Vegas Gold
+Cedar Grove High School,"2360 River Road Ellenwood, GA 30294-1199",Saints,Navy & Columbia Blue
+Cedar Shoals High School,"1300 Cedar Shoals Drive Athens, GA 30605",Jaguars,Royal Blue & Orange
+Cedartown High School,"167 Frank Lott Drive Cedartown, Georgia 30125",Bulldogs,Red & Black
+Centennial High School,"9310 Scott Road Roswell, GA 30076",Knights,"Black, Royal & White"
+Central Gwinnett High School,"564 West Crogan Street Lawrenceville, GA 30046",Black Knights,Black & Gold
+Central High School,"113 Central Road Carrollton, GA 30116",Lions,Maroon & Gray
+Central High School,"2155 Napier Avenue Macon, GA 31204-3600",Chargers,"Orange, White & Royal Blue"
+Central High School,"945 North Washington Avenue Post Office Box 308 Talbotton, GA 31827",Hawks,"Blue, Gold & White"
+Chamblee High School,"3688 Chamblee Dunwoody Road Chamblee, Georgia 30341",Bulldogs,Blue & Gold
+Chapel Hill High School,"4899 Chapel Hill Road Douglasville, GA 30135",Panthers,Black & Purple
+Charlton County High School,"994 Indian Trail Folkston, GA 31537",Indians,Red & Black
+Chattahoochee High School,"5230 Taylor Road Johns Creek, GA 30022-6015",Cougars,"Royal Blue, Gold & White"
+Chattahoochee Co High School,"360 Hwy 26 Cusseta, Georgia 31805",Panthers,Black & Gold
+Chattooga High School,"989 Highway 114 Summerville, GA 30747",Indians,Red & Black
+Cherokee High School,"930 Marietta Highway Canton, GA 30114",Warriors,Red & White
+Cherokee Bluff High School,"6603 Spout Springs Road Flowery Branch, GA 30542",Bears,Purple & Silver
+Chestatee High School,"3005 Sardis Road Gainesville, GA 30506-2232",War Eagles,"Black, Silver & Maroon"
+Christian Heritage School,"1600 Martin Luther King Jr. Blvd Dalton, GA 30721",Lions,Crimson & Gold
+Clarke Central High School,"350 South Milledge Avenue Athens, GA 30605",Gladiators,Red & Gold
+Clarkston High School,"618 North Indian Creek Drive Clarkston, GA 30021",Angoras,Green & Gold
+Claxton High School,"602 Hendrix St. Ext Claxton, GA 30417",Tigers,Black & Gold
+Clinch County High School,"1 Panther Way Homerville, GA 31634",Panthers,Red & White
+Coahulla Creek High School,"3361 Crow Road Dalton, GA 30721-1022",Colts,Navy & Silver
+Coffee High School,"159 Trojan Way Douglas, GA 31533",Trojans,Maroon & White
+Collins Hill High School,"50 Taylor Road Suwanee, GA 30024",Eagles,"Green, Silver, Black & White"
+Colquitt County High School,"105 Darbyshire Road Norman Park, GA 31771",Packers,Black & Gold
+Columbia High School,"2106 Columbia Drive Decatur, GA 30032-7202",Eagles,Orange & Blue
+Columbus High School,"1700 Cherokee Avenue Columbus, GA 31906",Blue Devils,Royal Blue & Orange
+Commerce High School,"272 Lakeview Drive Commerce, GA 30529",Tigers,Black & Gold
+Cook High School,"9900 Highway 37 Adel, GA 31620",Hornets,Black & Gold
+Coosa High School,"4454 Alabama Hwy Rome, GA 30165",Eagles,"Black, White & Silver"
+Coretta Scott King,"1190 Northwest Drive Atlanta, GA 30318",Eagles,Pink & Brown
+Crawford County High School,"400 East Agency Street Roberta, GA 31078",Eagles,Purple & Gold
+Creekside High School,"7405 Herndon Road Fairburn, GA 30213",Seminoles,Cardinal & Vegas Gold
+Creekview High School,"1550 Owens Store Road Canton, GA 30115",Grizzlies,Blue & Green
+Crisp County High School,"2402 Cougar Alley Cordele, GA 31015",Cougars,Royal Blue & Gold
+Cross Creek High School,"3855 Old Waynesboro Road Augusta, Georgia 30906",RazorBacks,Cardinal & Vegas Gold
+Cross Keys High School,"1626 N. Druid Hills Road NE Atlanta, GA 30319",Phoenix,Green & Gold
+Dacula High School,"123 Broad Street Dacula, GA 30019",Falcons,"Navy, Vegas Gold & White"
+Dade County High School,"300 Tradition Lane Trenton, GA 30752",Wolverines,Maroon & Gold
+Dalton High School,"1500 Manly Street Dalton, GA 30720",Catamounts,Red & White
+The Dalton Academy,"1250 Cross Plains Trail Dalton, Georgia 30720",Pumas,Red/White/Black
+Darlington School,"1014 Cave Spring Road Rome, GA 30161-4700",Tigers,Purple & White
+Davidson Fine Arts Magnet School,"615 Twelfth Street Augusta, GA 30901-2115",Titans,"Maroon, Silver & White"
+Dawson County High School,"1665 Perimeter Road Dawsonville, GA 30534",Tigers,Maroon & Vegas Gold
+Decatur High School,"310 North McDonough Street Decatur, GA 30030-3339",Bulldogs,Navy & Vegas Gold
+DeKalb School of the Arts,"1192 Clarendon Avenue Avondale Estates, GA 30002",Fire Ant,Purple & Gold
+Dr. Leila Denmark High School,"645 Mullinax Road Alpharetta, GA 30004",Danes,"Carolina Blue, Navy & White"
+Discovery High School,"1335 Old Norcross Road Lawrenceville, GA 30046",Titans,"Navy, Gray & Lime Green"
+Dodge County High School,"350 Pearl Bates Avenue Eastman, GA 31023",Indians,Red & White
+Dooly County High School,"715 North 3rd Street Vienna, GA 31092",Bobcats,Cardinal & Gold
+Dougherty Comp High School,"1800 Pearce Avenue Albany, GA 31705",Trojans,Maroon & White
+Douglas County High School,"8705 Campbellton Street Douglasville, GA 30134-2299",Tigers,Navy & Vegas Gold
+Douglass High School,"225 Hamilton E. Holmes Drive Atlanta, GA 30318",Astros,Black & Gold
+Drew High School,"6237 Garden Walk Blvd Riverdale, GA 30274",Titans,Navy & Old Gold
+Drew Charter School,"300 Eva Davis Way Atlanta, GA 30317",Eagles,Green & Vegas Gold
+Druid Hills High School,"1798 Haygood Drive, NE Atlanta, GA 30307-1119",Red Devils,Red & Black
+Dublin High School,"1127 Hillcrest Parkway Dublin, GA 31021-3646",Fighting Irish,Green & Gold
+Duluth High School,"3737 Brock Road Duluth, GA 30096",Wildcats,"Purple, White & Black"
+Dunwoody High School,"5035 Vermack Road Dunwoody, GA 30338-4626",Wildcats,"Red, White & Blue"
+Dutchtown High School,"149 Mitchell Road Hampton, GA 30228",Bulldogs,Red & Black
+Eagle's Landing High School,"301 Tunis Road McDonough, GA 30253",Golden Eagles,Blue & Gold
+Eagle's Landing Christian,"2400 Highway 42 North McDonough, GA 30253",Chargers,Navy & Gold
+Early County High School,"12020 Columbia Highway Blakely, GA 39823-1703",Bobcats,Blue & Gold
+East Coweta High School,"400 HWY 154 Sharpsburg, GA 30277-9176",Indians,Purple & Gold
+East Forsyth High School,"8910 Jot Em Down Road Gainesville, GA 30506",Broncos,"Navy, Orange, Gray"
+East Hall High School,"3534 East Hall Road Gainesville, GA 30507",Vikings,Black & Gold
+East Jackson Comp. High School,"1435 Hoods Mill Road Commerce, GA 30529",Eagles,Navy & Silver
+East Laurens High School,"1010 East Highway 80 East Dublin, GA 31027",Falcons,Black & Gold
+East Paulding High School,"3320 East Paulding Drive Dallas, GA 30157-4552",Raiders,"Black, Silver & White"
+Eastside High School,"140 Highway 142 Covington, GA 30014",Eagles,Dark Green & Silver
+Echols County High School,"190 Highway 94, East Post Office Box 40 Statenville, GA 31648",Wildcats,Green & White
+Effingham County High School,"1589 Highway 119, South Springfield, GA 31329",Rebels,"Navy, Red & White"
+Elbert County Comp High School,"600 Abernathy Circle Elberton, GA 30635",Blue Devils,Navy & White
+Elite Scholars Academy,"7923 Fielder Road Jonesboro, GA 30236",Royal Knights,"Navy, Gold & White"
+Emanuel County Institute,"102 College Street Post Office Box 218 Twin City, GA 30471",Bulldogs,Red & Black
+Etowah High School,"6565 Putnam Ford Drive Woodstock, GA 30189-1501",Eagles,Royal Blue & White
+Evans High School,"4550 Cox Road Evans, GA 30809-3402",Knights,Black & Gold
+Fannin County High School,"360 Rebel Circle Blue Ridge, GA 30513",Rebels,Blue & Gray
+Fayette County High School,"1 Tiger Trail Fayetteville, GA 30214",Tigers,Black & Gold
+Fellowship Christian School,"10965 Woodstock Road Roswell, GA 30075-7502",Paladins,"Navy, Gray & White"
+Fitzgerald High School,"553 Ocilla Highway Fitzgerald, GA 31750",Purple Hurricane,Purple & Gold
+Flowery Branch High School,"4450 Hog Mountain Road Flowery Branch, GA 30542",Falcons,"Black, Red & White"
+Forest Park High School,"5452 Phillips Drive Forest Park, GA 30297",Panthers,Wine & Gold
+Forsyth Central High School,"131 Almon C Hill Drive Cumming, GA 30040",Bulldogs,Red & Black
+Franklin County High School,"6570 Highway 145 Carnesville, GA 30521",Lions,Green & White
+Furlow Charter School,"63 Valley Drive Americus, GA 31709",Falcons,Navy & Kelley Green
+Gainesville High School,"830 Century Place Gainesville, GA 30501-3002",Red Elephants,Red & White
+The Galloway School,"215 Chastain Park Avenue NW Atlanta, GA 30342",Scots,Navy & Gold
+Georgia Academy for the Blind,"2895 Vineville Avenue Macon, GA 31204-2899",Panthers,Royal Blue & White
+Fugees Academy,"4046 Chamblee Tucker Road Atlanta, GA 30340",N/A,Green and Yellow
+Georgia Military College,"201 East Greene Street Milledgeville, GA 31061",Bulldogs,Red & Black
+Georgia School for the Deaf,"232 Perry Farm Road SW Cave Spring, GA 30124",Tigers,Kelly Green & Gold
+Georgia School for Innovation and the Classics,"5073 Storey Mill Road Hephzibah, GA 30815",Patriots,"Red, White & Blue"
+Gilmer High School,"408 Bobcat Trail Ellijay, GA 30540",Bobcats,Purple & White
+Glascock County High School,"1230 Panther Way Gibson, GA 30810",Panthers,Orange & Black
+Glenn Hills High School,"2840 Glenn Hills Drive Augusta, GA 30906-3276",Spartans,Columbia Blue & Silver
+Glynn Academy,"1001 Mansfield Street PO Box 1678 Brunswick, GA 31520-7349",Terrors,Red & White
+Gordon Central High School,"335 Warrior Path Calhoun, GA 30701",Warriors,"Blue, Silver & White"
+Gordon Lee High School,"105 Lee Circle Chickamauga, GA 30707",Trojans,Navy & White
+Grayson High School,"50 Hope Hollow Road Loganville, GA 30052",Rams,"Hunter Green, Vegas Gold & Navy"
+Greater Atlanta Christian School,"1575 Indian Trail Road Norcross, GA 30093-2614",Spartans,Red & Gold
+Greenbrier High School,"5114 Riverwood Parkway Evans, GA 30809-6628",Wolf Pack,"Dark Green, Gray & Gold"
+Greene County High School,"1002 South Main Street Greensboro, GA 30642",Tigers,"Gold, Black & White"
+Greenforest Christian School,"3250 Rainbow Drive Decatur, GA 30034",Eagles,Green & Gold
+Greenville High School,"17656 Roosevelt Hwy Post Office Box 340 Greenville, GA 30222",Patriots,"Red, White & Blue"
+Griffin High School,"1617 West Poplar Street Griffin, GA 30224",Bears,Forest Green & Gold
+Groves High School,"201 Rommel Avenue Savannah, GA 31408",Rebels,Black & Athletic Gold
+Grovetown High School,"2010 Warrior Way Grovetown, GA 30813-8132",Warriors,"Navy, Silver, Red & White"
+Habersham Central High School,"2059 State Highway 197 S. Mt. Airy, GA 30563",Raiders,"Blue, Silver & Orange"
+Hampton High School,"795 Hampton-Locust Grove Road Hampton, GA 30228",Hornets,"Purple, Gold & Black"
+Hancock Central High School,"11311 GA Hwy 15 North Sparta, GA 31087",Bulldogs,Maroon & Gold
+Hapeville Charter Career Academy,"6045 Buffington Road, Building A Atlanta, GA 30349",Hornets,Navy & Vegas Gold
+Haralson County High School,"1655 GA Highway 120 Tallapoosa, GA 30176",Rebels,Blue & Gray
+Hardaway High School,"2901 College Drive Columbus, GA 31906",Golden Hawks,Gold & Scarlet
+Harlem High School,"1070 Appling-Harlem Road Harlem, GA 30814",Bulldogs,Red & Black
+Harris County High School,"8281 Georgia Highway 116 Hamilton, GA 31811",Tigers,Black & Gold
+Harrison High School,"4500 Due West Road Kennesaw, GA 30152-3855",Hoyas,"Navy, Kelly Green & White"
+Hart County High School,"59 5th Street Hartwell, GA 30643",Bulldogs,Orange & Black
+Hawkinsville High School,"70 Red Devil Drive Hawkinsville, GA 31036",Red Devils,"Red, White & Blue"
+Heard County High School,"545 main street franklin, GA 30217",Braves,Maroon & Gray
+Hebron Christian Academy,"775 Dacula Road Dacula, GA 30019",Lions,"Cardinal, Vegas Gold & White"
+McDonough High School,"155 Postmaster Drive McDonough, GA 30253",Warhawks,"Black, Vegas Gold, & White"
+Hephzibah High School,"4558 Brothersville Road Hephzibah, GA 30815",Rebels,Red & Black
+Heritage High School,"3960 Poplar Springs Road Ringgold, GA 30736",Generals,"Navy, Red & White"
+Heritage High School,"2400 Granade Road SW Conyers, GA 30094",Patriots,"Blue, White & Red"
+Hillgrove High School,"4165 Luther Ward Road Powder Springs, GA 30127",Hawks,Crimson & Silver
+Hiram High School,"702 Virgie Ballentine Drive Hiram, GA 30141",Hornets,Purple & Vegas Gold
+Holy Innocents' Episcopal School,"805 Mount Vernon Highway, NW Atlanta, GA 30327",Golden Bears,Crimson & Gold
+Houston County High School,"920 Highway 96 Warner Robins, GA 31088",Bears,"Black, Silver & White"
+Howard High School,"6400 Forsyth Road Macon, GA 31210",Huskies,"Cardinal, Black & Silver"
+Langston Hughes High School,"7510 Hall Road Fairburn, GA 30213",Panthers,"Green, Gold & Black"
+Innovation Academy,"125 Milton Avenue Alpharetta, GA 30009",Phoenix,Orange and Dark Blue
+Irwin County High School,"149 Chieftain Circle Ocilla, GA 31774-2231",Indians,Red & Gray
+Islands High School,"170 Whitemarsh Island Road Savannah, GA 31410",Sharks,"Teal, Black & White"
+Jackson High School,"717 South Harkness Street Jackson, GA 30233",Red Devils,"Red, White & Navy"
+Jackson County High School,"152 Jaxco Junction Hoschton, GA 30548",Panthers,"Red, Black & White"
+Maynard Jackson High School,"801 Glenwood Avenue Atlanta, GA 30316",Jaguars,Gold & Cardinal
+Jasper County High School,"14477 GA Highway 11 N Monticello, GA 31064",Hurricanes,"Purple, White, Silver, and Black"
+Jeff Davis High School,"156 Collins Street Hazlehurst, GA 31539",Yellow Jackets,Blue & Gold
+Jefferson High School,"575 Washington Street Jefferson, GA 30549",Dragons,"Royal Blue, Red & White"
+Jefferson County High School,"1157 Warrior Trail Louisville, GA 30434",Warriors,"Gold, Navy & White"
+H. V. Jenkins High School,"1800 E. Derenne Avenue Savannah, GA 31406-3106",Warriors,"Red, White & Silver/Gray"
+Jenkins County High School,"433 Barney Avenue Millen, GA 30442-1948",War Eagles,Blue & White
+Johns Creek High School,"5575 State Bridge Road Johns Creek, GA 30022",Gladiators,Cardinal Red & Vegas Gold
+Johnson County High School,"150 Herschel Walker Drive Wrightsville, GA 31096",Trojans,Blue & White
+AR Johnson Magnet High School,"1324 Laney-Walker Blvd Augusta, GA 30901",Panthers,Purple & White
+Johnson High School,"3155 Robert Wood Johnson Drive Gainesville, GA 30507",Knights,"Columbia Blue, Navy & White"
+Johnson High School,"3012 Sunset Boulevard Savannah, GA 31404",Atom Smashers,Blue & Orange
+Jones County High School,"339 Railroad Street Gray, GA 31032",Greyhounds,Purple & Gold
+Jonesboro High School,"7728 Mt. Zion Blvd Jonesboro, GA 30236",Cardinals,Scarlet & White
+Jordan Vocational High School,"3200 Howard Ave Columbus, GA 31904",Red Jackets,Carmine & Gray
+T.W. Josey Comp. High School,"1701 15th Street St Eagles Way Augusta, GA 30901",Eagles,"Green, White & Gold"
+Kell High School,"4770 Lee Waters Road Marietta, GA 30066",Longhorns,"Copper, White & Black"
+Kendrick High School,"6015 Georgetown Drive Columbus, GA 31907-4698",Cherokees,Blue & Gold
+Kennesaw Mountain High School,"1898 Kennesaw Due West Road Kennesaw, GA 30152",Mustangs,"Green, Silver & Black"
+King's Ridge Christian School,"2765 Bethany Bend Alpharetta, GA 30004",Tigers,Purple & White
+KIPP Atlanta Collegiate,"98 Anderson Avenue Atlanta, GA 30314",Warriors,Collegiate Purple & Kelly Green
+LaFayette High School,"5178 Round Pond Road LaFayette, GA 30728",Ramblers,Orange & Black
+LaGrange High School,"516 North Greenwood Street LaGrange, GA 30240",Grangers,Royal Blue & White
+Lake Oconee Academy,"1021 Titan Circle Greensboro, GA 30642",Titans,Royal Blue & Gold
+Lakeside High School,"3801 Briarcliff Road, NE Atlanta, GA 30345-3856",Vikings,Purple & Gold
+Lakeside High School,"533 Blue Ridge Drive Evans, GA 30809-9299",Panthers,Maroon & Silver
+Lakeview-Ft. Ogle. High School,"1850 Battlefield Parkway Fort Oglethorpe, GA 30742-4020",Warrior,Red & White
+Lamar County High School,"1 Trojan Way Barnesville, GA 30204",Trojans,"Navy, Red & White"
+Lambert High School,"805 Nichols Road Suwanee, GA 30024",Longhorns,"Crimson, Black & White"
+Landmark Christian School,"50 SE Broad Street Fairburn, GA 30213-1483",War Eagles,Navy & Vegas Gold
+Laney High School,"1339 Laney Walker Blvd Augusta, GA 30901",Wildcats,Red & Gray
+Lanier High School,"918 Buford Highway Sugar Hill, GA 30518",Longhorns,"Orange, White & Black"
+Lanier County High School,"52 West Patten Avenue Lakeland, GA 31635-1450",Bulldogs,Red & Black
+Lassiter High School,"2601 Shallowford Road Marietta, GA 30066-3038",Trojans,Cardinal & Gold
+Lee County High School,"One Trojan Way Leesburg, GA 31763",Trojans,Red & White
+Liberty County High School,"3216 East Oglethorpe Hwy Hinesville, GA 31313",Panthers,Black & Vegas Gold
+Lincoln County High School,"200 Charles Ward Elam Street Lincolnton, GA 30817",Red Devils,Red & White
+Lithia Springs High School,"2520 E. County Line Road Lithia Springs, GA 30122-2799",Lions,Green & Gold
+Lithonia High School,"2440 Phillips Road Lithonia, GA 30058",Bulldogs,Black & Gold
+Locust Grove High School,"3275 S Ola Road Locust Grove, GA 30248",Wildcats,Royal Blue & White
+Loganville High School,"100 Trident Trail Loganville, GA 30052",Red Devils,Red & White
+Long County High School,"1844 GA HWY 57 Ludowici, GA 31316",Blue Tide,Columbia Blue & White
+Lovejoy High School,"1587 McDonough Road Hampton, GA 30228",Wildcats,Columbia Blue & Navy
+The Lovett School,"4075 Paces Ferry Road, NW Atlanta, GA 30327-3099",Lions,Blue & White
+Lowndes High School,"1606 Norman Drive Valdosta, GA 31601-3598",Vikings,Crimson & White
+Luella High School,"603 Walker Drive Locust Grove, GA 30248-2052",Lions,"Navy, Silver & Maroon"
+Lumpkin County High School,"2001 Indian Drive Dahlonega, GA 30533-3206",Indians,Purple & Vegas Gold
+M. L. King High School,"3991 Snapfinger Road Lithonia, GA 30038",Lions,Crimson & Silver
+Macon County High School,"611 Vienna Road Montezuma, GA 31063-1274",Bulldogs,Red & Gray
+Madison County High School,"600 Madison Street Danielsville, GA 30633",Red Raiders,Red & Gray
+Manchester High School,"405 5th Avenue, N Manchester, GA 31816",Blue Devils,Blue & White
+Marietta High School,"1171 Whitlock Avenue Marietta, GA 30064-2276",Blue Devils,Navy & White
+Marion County High School,"1 Eagle Drive Buena Vista, GA 31803",Eagles,Red & Black
+Marist School,"3790 Ashford Dunwoody Rd, NE Atlanta, GA 30319-1899",War Eagles,Blue & Gold
+Mary Persons High School,"300 Montpelier Avenue Forsyth, GA 31029",Bulldogs,Black & Gold
+Benjamin E. Mays High School,"3450 Benjamin E. Mays Drive Atlanta, GA 30331",Raiders,Carolina Blue & Corn Gold
+McEachern High School,"2400 New Macland Road Powder Springs, GA 30127-1798",Indians,Royal Blue & Vegas Gold
+McIntosh High School,"201 Walt Banks Road Peachtree City, GA 30269",Chiefs,"Kelly Green, Black & White"
+McIntosh County Academy,"8945 US 17, North Darien, GA 31305-9834",Buccaneers,Red & Gold
+McNair High School,"1804 Bouldercrest Road, SE Atlanta, GA 30316-3902",Mustangs,"Red, Silver & White"
+Meadowcreek High School,"4455 Steve Reynolds Blvd Norcross, GA 30093",Mustangs,"Carolina Blue, White & Navy"
+Metter High School,"34905 Highway 129, South Metter, GA 30439",Tigers,"Orange, White & Black"
+Midtown High School,"929 Charles Allen Drive NE Atlanta, GA 30309",Knights,Cardinal & Gray
+Mill Creek High School,"4400 Braselton Hwy Hoschton, GA 30548",Hawks,"Cardinal, Vegas Gold & Navy"
+Miller County High School,"996 Phillipsburg Hwy Colquitt, GA 39837",Pirates,Red & White
+Miller Grove High School,"2645 DeKalb Medical Parkway Lithonia, GA 30058",Wolverines,"Purple, White & Silver"
+Milton High School,"13025 Birmingham Highway Milton, GA 30004",Eagles,"Red, White & Navy Blue"
+Mitchell County High School,"1000 Newton Road Camilla, GA 31730",Eagles,"Red, White & Royal Blue"
+Model High School,"3252 Calhoun Highway, NE Rome, GA 30161-9679",Blue Devils,Royal Blue & White
+Monroe High School,"900 Lippitt Drive Albany, GA 31701",Tornadoes,green and gold
+Monroe Area High School,"300 Double Springs Church Road Monroe, GA 30656",Purple Hurricanes,Purple & White
+Montgomery County High School,"100 Faye D. Brewer St. Mt. Vernon, GA 30445",Eagles,"Red, White & Blue"
+Morgan County High School,"1231 College Drive Madison, GA 30650",Bulldogs,"Red, Black & White"
+Morrow High School,"4930 Steele Road Ellenwood, GA 30294",Mustangs,Forest Green & Vegas Gold
+Mountain View High School,"2351 Sunny Hill Road Lawrenceville, GA 30043",Bears,Black & Metallic Vegas Gold
+Mt. Bethel Christian Academy,"2509 Post Oak Tritt Road Marietta, GA 30062",Eagles,Navy & Gold
+Mt. Paran Christian School,"1275 Stanley Road Kennesaw, GA 30152",Eagles,"Royal, White & Black"
+Mt. Pisgah Christian School,"9820 Nesbit Ferry Road Johns Creek, GA 30022-5349",Patriots,"Red, White & Blue"
+Mount Vernon School,"510 Mt. Vernon Highway, NE Atlanta, GA 30328",Mustangs,Navy & White
+Mt. Zion High School,"280 Eureka Church Road Carrollton, GA 30117",Eagles,"Red, White & Gray"
+Mt. Zion High School,"2535 Mt. Zion Parkway Jonesboro, GA 30236",Bulldogs,Red & Black
+Mundy's Mill High School,"9652 Fayetteville Road Jonesboro, GA 30238",Tigers,"Navy, Orange & White"
+Murray County High School,"1001 Green Road Chatsworth, GA 30705-2011",Indians,Green & White
+New Hampstead High School,"2451 Little Neck Road Savannah, GA 31302",Phoenix,Burgundy & Gold
+New Manchester High School,"4925 Highway 92/166 Douglasville, GA 30135-5127",Jaguars,"Scarlet, Silver & White"
+Newnan High School,"190 LaGrange Street Newnan, GA 30263",Cougars,"Navy, Gold, and White"
+Newton High School,"1 Ram Way Covington, GA 30014-1905",Rams,Royal Blue & White
+Norcross High School,"5300 Spalding Drive Norcross, GA 30092",Blue Devils,"Blue, White & Silver"
+North Atlanta High School,"4111 Northside Parkway Atlanta, GA 30327",Warriors,Silver & Black
+North Clayton High School,"1525 Norman Drive College Park, GA 30349",Eagles,"Blue, White, Silver, Black"
+North Cobb High School,"3400 Old Highway 293, North Kennesaw, GA 30144-1072",Warriors,"Orange, White & Blue"
+North Cobb Christian School,"4500 Eagle Drive Kennesaw, GA 30144",Eagles,"Navy, Carolina Blue & White"
+North Forsyth High School,"3635 Coal Mountain Drive Cumming, GA 30028-3279",Raiders,"Black, Silver & Purple"
+North Gwinnett High School,"20 Level Creek Road, NE Suwanee, GA 30024",Bulldogs,"Black, Red & White"
+North Hall High School,"4885 Mt. Vernon Road Gainesville, GA 30506",Trojans,"Forest Green, White, Black & Silver"
+North Murray High School,"2568 Mt. Carmel Church Road Chatsworth, GA 30705",Mountaineers,Black & Gold
+North Oconee High School,"1081 Rocky Branch Road Bogart, GA 30622",Titans,"Scarlet, Gold, Black"
+North Paulding High School,"300 North Paulding Drive Dallas, GA 30132-5725",Wolfpack,Navy & Silver
+North Springs High School,"7447 Roswell Road Sandy Springs, GA 30328",Spartans,Navy & Orange
+Northeast High School,"1646 Upper River Road Macon, GA 31211-1524",Raiders,"Red, Black & Gold"
+Northgate High School,"3220 Fischer Road Newnan, GA 30265",Vikings,Cardinal & White
+Northside High School,"2002 American Way Columbus, GA 31909",Patriots,"Red, White & Blue"
+Northside High School,"926 Green Street Warner Robins, GA 31093-2780",Eagles,Blue & White
+Northview High School,"10625 Parsons Road Johns Creek, GA 30097-1717",Titans,"Navy, White & Hyper Green"
+Northwest Classical Academy,"115 Brooklyn Dr Dallas, Georgia 30132",Spartans,"Gold, Navy, Gray"
+Northwest Whitfield High School,"1651 Tunnel Hill-Varnell Road Tunnel Hill, GA 30755",Bruins,Blue & Orange
+Oconee County High School,"2721 Hog Mountain Road Watkinsville, GA 30677",Warriors,Blue & White
+Oglethorpe County High School,"749 Athens Road Lexington, GA 30648-1911",Patriots,"Red, White & Blue"
+Ola High School,"357 North Ola Road McDonough, GA 30252",Mustangs,Forest Green & Vegas Gold
+Osborne High School,"2451 Favor Road Marietta, GA 30060-7338",Cardinals,"Red, White, Black, Yellow"
+Pace Academy,"966 W. Paces Ferry Rd, NW Atlanta, GA 30327-2699",Knights,"Navy, White & Grey"
+Paideia School,"1509 Ponce De Leon Avenue Atlanta, GA 30307-1617",Pythons,Royal Blue & White
+Parkview High School,"998 Cole Drive Lilburn, GA 30047",Panthers,Orange & White
+Pataula Charter Academy,"18637 Hartford Street Post Office Box 332 Edison, GA 39846",Panthers,"Kelly Green, Black, Silver & White"
+Paulding County High School,"1297 Villa Rica Highway Dallas, GA 30157",Patriots,"Red, White & Blue"
+Peach County High School,"3665 Peach Parkway Fort Valley, GA 31030",Trojans,Black & Gold
+Peachtree Ridge High School,"1555 Old Peachtree Road Suwanee, GA 30024",Lions,Royal Blue & White
+Pebblebrook High School,"991 Old Alabama Road SW Mableton, GA 30126-4199",Falcons,"Navy, Burgundy & White (Black/Gold (Accent color))"
+Pelham High School,"720 Barrow Avenue Pelham, GA 31779",Hornets,"Navy, Gold & White"
+Pepperell High School,"3 Dragon Drive Lindale, GA 30147-1252",Dragons,"Black, Vegas Gold & White"
+Perry High School,"1307 North Avenue Perry, GA 31069",Panthers,"Maroon, White & Gold"
+Pickens High School,"500 Dragon Drive Jasper, GA 30143",Dragons,Kelly Green & White
+Pierce County High School,"4850 County Farm Rd Blackshear, GA 31516",Bears,Blue & Silver
+Pike County High School,"331 Pirate Drive Zebulon, GA 30295-3378",Pirates,Red & Gray
+Pope High School,"3001 Hembree Road Marietta, GA 30062",Greyhounds,Carolina Blue & Navy
+Portal High School,"27245 Highway 80, West Portal, GA 30450",Panthers,Navy & White
+Prince Avenue Christian School,"2201 Ruth Jackson Road Bogart, GA 30622",Wolverines,Navy & Gold
+Providence Christian Academy,"4575 Lawrenceville Highway NW Lilburn, GA 30047-3617",Storm,"Navy, Red & Silver"
+Putnam County High School,"300 War Eagle Drive Eatonton, GA 31024-2304",War Eagles,"Navy, White & Red"
+Quitman County High School,"173 Kaigler Road Georgetown, GA 39854-4838",Hornets,"Maroon, Yellow Gold & Black"
+Rabun County High School,"230 Wildcat Hill Drive Tiger, GA 30576",Wildcats,Red & White
+Rainey McCullars School of the Arts,"1700 Midtown Drive Columbus, GA 31906",Phoenix,Cyan & Grey
+Randolph-Clay High School,"3451 GA Highway 266 Cuthbert, GA 39840",Red Devils,Red & Black
+Redan High School,"5247 Redan Road Stone Mountain, GA 30088-2803",Raiders,Navy & Silver
+Richmond Academy,"910 Russell Street Augusta, GA 30904-4116",Musketeers,Purple & Gold
+Richmond Hill High School,"1 Wildcat Drive Richmond Hill, GA 31324-8809",Wildcats,Black & Gold
+Ridgeland High School,"2478 Happy Valley Road Rossville, GA 30741-6009",Panthers,Black & Silver
+Ringgold High School,"29 Tiger Trail Ringgold, GA 30736",Tigers,Blue & White
+River Ridge High School,"400 Arnold Mill Road Woodstock, GA 30188",Knights,Navy & Vegas Gold
+Riverdale High School,"160 Roberts Drive Riverdale, GA 30274",Raiders,Black & Silver
+Riverwood High School,"5900 Raider Drive Sandy Springs, GA 30328-4798",Raiders,"Blue, Red & White"
+Rockdale County High School,"1174 bulldog Cir NE conyers, GA 30012",Bulldogs,Red & Black
+Rockmart High School,"990 Cartersville Highway Rockmart, GA 30153",Yellow Jackets,Black & Gold
+Rome High School,"1000 Veteran's Memorial Hwy, NE Rome, GA 30161",Wolves,Red & Vegas Gold
+Roswell High School,"11595 King Road Roswell, GA 30075",Hornets,"Green, White & Black"
+Rutland High School,"6250 Skipper Road Macon, GA 31216",Hurricanes,"Green, Orange & White"
+Salem High School,"3551 Underwood Road Conyers, GA 30013-2901",Seminoles,"Garnet, Vegas Gold, Black & White"
+Sandy Creek High School,"360 Jenkins Road Tyrone, GA 30290-1614",Fighting Patriots,"Red, White & Blue"
+Savannah High School,"400 Pennsylvania Avenue Savannah, GA 31404-1245",Blue Jackets,Royal Blue & White
+Savannah Arts Academy,"500 Washington Avenue Savannah, GA 31405",Panthers,"Black, Silver & Hot Pink"
+Savannah Christian Prep School,"1599 Chatham Parkway Savannah, GA 31408",Raiders,Red & White
+Savannah Classical Academy,"705 East Anderson Street Savannah, GA 31401",Spartan,"Red, Silver & Navy"
+Savannah Country Day School,"824 Stillwood Drive Savannah, GA 31419-2643",Hornets,Green & Gold
+Savannah Early College,"400 Pennsylvania Avenue Savannah, GA 31404",Cobras,Maroon & White
+Schley County High School,"2131 Highway 19 South Post Office Box 1350 Ellaville, GA 31806",Wildcats,"Black, Silver and White"
+Screven County High School,"110 Halcyondale Road Sylvania, GA 30467",Gamecocks,Red & White
+Seckinger High School,"3655 Sardis Church Road Buford, GA 30519",Jaguars,"Blue, Black, Gray"
+Seminole County High School,"5582 Highway 39 Donalsonville, GA 39845-6202",Indians,Green & White
+Sequoyah High School,"4485 Hickory Road Canton, GA 30115",Chiefs,Black & Gold
+Shaw High School,"7579 Raider Way Columbus, GA 31909",Raiders,Black and Silver
+Shiloh High School,"4210 Shiloh Road Snellville, GA 30039",Generals,Black & Silver
+Social Circle High School,"154 Alcova Drive Social Circle, GA 30025",Redskins,"Red, White, & Black"
+Sonoraville High School,"7340 Fairmount Highway, SE Calhoun, GA 30701",Phoenix,Red & Black
+South Atlanta High School,"800 Hutchens Road, SE Atlanta, GA 30354-2502",Hornets,"Purple, Turquoise & White"
+South Cobb High School,"1920 Clay Road Austell, GA 30106-2299",Eagles,"Navy, Orange, and White"
+South Effingham High School,"1220 Noel C. Conaway Road Guyton, GA 31312",Mustangs,Cardinal & Silver
+South Forsyth High School,"585 Peachtree Parkway Cumming, GA 30041-6821",War Eagles,Royal Blue & Silver
+South Gwinnett High School,"2288 East Main Street Snellville, GA 30078",Comets,Blue & Gray
+South Paulding High School,"1364 Winn Road Douglasville, GA 30134",Spartans,Cardinal & Vegas Gold
+Southeast Bulloch High School,"9184 Brooklet-Denmark Highway Brooklet, GA 30415",Yellow Jackets,Blue & Gold
+Southeast Whitfield High School,"1954 Riverbend Road SE Dalton, GA 30721-5517",Raiders,Maroon & Silver
+Southwest Magnet High School,"1775 Williamson Road Macon, GA 31206-3339",Patriots,"Red, White & Blue"
+Southwest Atlanta Christian Academy,"3911 Campbellton Road, SW Atlanta, GA 30331-5053",Warriors,Maroon & Gray
+Southwest DeKalb High School,"2863 Kelley Chapel Road Decatur, GA 30034",Panthers,Navy Blue & Vegas Gold
+Southwest Georgia STEM Charter,"185 Pecan Street Shellman, Georgia 39886",Aggie,Red and Gray
+Spalding High School,"433 Wilson Road Griffin, GA 30224-4547",Jaguars,Navy & Silver
+Spencer High School,"1000 Ft. Benning Road Columbus, GA 31903",Greenwave/Owls,Green & Gold
+Sprayberry High School,"2525 Sandy Plains Road Marietta, GA 30066",Yellow Jackets,Black & Vegas Gold
+Spring Creek Charter Academy,"2500 Vada Road Bainbridge, GA 39817",Stallions/Fillies,"Vegas Gold, Garnett, Black"
+St. Francis Schools,"13440 Cogburn Road Milton, GA 30004-3647",Knights,Navy & White
+St. Pius X Catholic High School,"2674 Johnson Road, NE Atlanta, GA 30345-1720",Golden Lions,"Navy, Vegas Gold & White"
+St. Vincent's Academy,"207 East Liberty Street Savannah, GA 31401-4401",Saints,Royal Blue & Gold
+Starr's Mill High School,"193 Panther Path Fayetteville, GA 30215-2950",Panthers,"Columbia Blue, Black & White"
+Statesboro High School,"10 Coach Lee Hill Blvd Statesboro, GA 30458",Blue Devils,Blue & White
+Statesboro STEAM Academy,"1718 Northside Drive E. Statesboro, GA 30458",Dragons,"Blue, Gray & Orange"
+Stephens County High School,"323 Indian Trail Toccoa, GA 30577-9155",Indians,Red & Black
+Stephenson High School,"701 Stephenson Road Stone Mountain, GA 30087-4616",Jaguars,Black & Royal Blue
+Stewart County High School,"15582 GA 27 PO Box 706 Lumpkin, GA 31815-0706",Royal Knights,Royal Blue & Gold
+Martha Ellen Stilwell School of the Arts,"2580 Mt. Zion Parkway Jonesboro, GA 30236",Stallions,N/A
+Stockbridge High School,"1151 Old Conyers Road Stockbridge, GA 30281",Tigers,Green & Orange
+Stone Mountain High School,"4555 Central Drive Stone Mountain, GA 30083-2599",Pirates,Red & White
+Sumter County High School,"903 South Georgia Tech Parkway Americus, GA 31709",Panthers,Royal Blue & Vegas Gold
+Swainsboro High School,"689 South Main Street Swainsboro, GA 30401",Tigers,Black & Gold
+Taliaferro County High School,"557 Broad Street Crawfordville, GA 30631",Jaguars,Navy & Orange
+Tattnall County High School,"#1 Battle Creek Warrior Blvd. Reidsville, GA 30453",Battle Creek Warriors,Navy & Vegas Gold
+Taylor County High School,"52 R.L. McDougal Drive Butler, GA 31006",Vikings,"Navy, Old Gold & White"
+Richmond County Technical Career Magnet School,"3200B Augusta Tech Drive Augusta, GA 30906",White Tigers,"Red, White & Blue"
+Telfair County High School,"458 South Third Avenue McRae, GA 31055",Trojans,"Black, White & Columbia Blue"
+Temple High School,"589 Sage Street Temple, GA 30179",Tigers,Black & Gold
+Terrell County High School,"201 Greenwave Blvd Dawson, GA 39842",Greenwave,Green & Gold
+Therrell High School,"3099 Panther Trail, SW Atlanta, GA 30311",Panthers,Red & Black
+Thomas Co. Central High School,"4686 U. S. Hwy 84 Bypass Thomasville, GA 31792",Yellow Jackets,Blue & Gold
+Thomasville High School,"315 South Hansell Street Thomasville, GA 31792-5698",Bulldogs,Red & Gold
+Thomson High School,"1160 Whiteoak Road PO Box 1077 Thomson, Georgia 30824",Bulldogs,Black & Gold
+Tift County High School,"One Blue Devil Way Tifton, GA 31794",Blue Devils,Blue & White
+Toombs County High School,"500 Bulldog Road Lyons, GA 30436-4961",Bulldogs,"Red, Navy & White"
+Towers High School,"3919 Brookcrest Circle Decatur, GA 30032-3815",Titans,Maroon & Gray
+Towns County High School,"1400 US Highway 76, E Hiawassee, GA 30546-2008",Indians,Blue & White
+Treutlen High School,"7892 Georgia Highway 29 Soperton, GA 30457",Vikings,Red & Black
+Tri-Cities High School,"2575 Harris Street East Point, GA 30344",Bulldogs,"Red, Black & Silver"
+Trinity Christian School,"8817 Highway 54 West Sharpsburg, GA 30277",Lions,"Purple, Black & White"
+Trion High School,"919 Allgood Street Suite 3 Trion, Georgia 30753",Bulldogs,Blue & White
+Troup High School,"1920 Hamilton Road LaGrange, GA 30241",Tigers,Blue & Gold
+Tucker High School,"5036 LaVista Road Tucker, GA 30084",Tigers,"Maroon, Gold & White"
+Turner County High School,"316 Lamar Street Ashburn, GA 31714",Titans,Orange & Blue
+Twiggs County High School,"375 Watson Drive Jeffersonville, Georgia 31044",Cobras,Black & Vegas Gold
+Union County High School,"153 Panther Circle Blairsville, GA 30512",Panthers,Purple & Gold
+Union Grove High School,"120 East Lake Road McDonough, GA 30252-4812",Wolverines,Maroon & Gray
+Upson-Lee High School,"268 Knight Trail Thomaston, GA 30286",Knights,"Black, silver, purple"
+Utopian Academy for the Arts High School,"2299 Old Rex Morrow Road Morrow, GA 30260",Eagles,"Burgundy, Black, Silver"
+Valdosta High School,"4590 Inner Perimeter Road Valdosta, GA 31602",Wildcats,Black & Gold
+Veterans High School,"340 Piney Grove Road Kathleen, GA 31047-2605",Warhawks,"Red, White & Blue"
+Vidalia High School,"901 North Street West Vidalia, GA 30474",Indians,"Maroon, Vegas Gold & Black"
+Villa Rica High School,"600 Rocky Branch Road Villa Rica, GA 30180",Wildcats,Purple & Gold
+W. D. Mohammed High School,"735 Fayetteville Road, SE Atlanta, GA 30316-2309",Caliphs,Blue & White
+Walker School,"700 Cobb Parkway, North Marietta, GA 30062-2404",Wolverines,Maroon & Gold
+Walnut Grove High School,"4863 Gutherie Cemetery Road Loganville, GA 30052",Warriors,"Green, Black & Silver"
+Walton High School,"1590 Bill Murdock Road Marietta, GA 30062-1590",Raiders,"Red, White & Blue"
+Ware County High School,"700 Victory Drive Waycross, GA 31503",Gators,"Green, Gold & White"
+Warner Robins High School,"401 South Davis Drive Warner Robins, GA 31088",Demons,Cardinal & White
+Warren County High School,"1253 Atlanta Highway, NW Warrenton, GA 30828-0192",Screaming Devils,"Blue, Gold & White"
+Washington High School,"45 White House Drive SW Atlanta, GA 30314",Bulldogs,Royal Blue & White
+Washington County High School,"420 Riddleville Road P.O. Box 1057 Sandersville, GA 31082",Golden Hawks,"Black, White & Gold"
+Washington-Wilkes High School,"1182 Tignall Road Washington, GA 30673",Tigers,Blue & Gold
+Wayne County High School,"One Jacket Drive Jesup, GA 31545",Yellow Jackets,Black & Vegas Gold
+The Weber School,"6751 Roswell Road Atlanta, Georgia 30328",Rams,Navy Blue & White
+Webster County High School,"7168 Washington Street Preston, GA 31824",Bobcats,Navy & Carolina Blue
+Wesleyan School,"5405 Spalding Drive Peachtree Corners, GA 30092-2614",Wolves,"Green, Gold & White"
+West Forsyth High School,"4155 Drew Road Cumming, GA 30040-9441",Wolverines,"Green, Navy & Vegas Gold"
+West Hall High School,"5500 McEver Road Oakwood, GA 30566",Spartans,Navy & Silver
+West Laurens High School,"3692 Highway 257 Dexter, GA 31019",Raiders,Royal Blue & White
+Westlake High School,"2400 Union Road, SW Atlanta, GA 30331",Lions,"Blue, Silver & White"
+Westminster School,"1424 W. Paces Ferry Rd, NW Atlanta, GA 30327-2486",Wildcats,Green & White
+Westover High School,"2600 Partridge Lane Albany, GA 31707",Patriots,"Red, White & Blue"
+Westside High School,"2851 Heath Road Macon, GA 31206-5247",Seminoles,Garnet & Gold
+Westside High School,"1002 Patriots Way Augusta, GA 30907",Patriots,"Red, White & Blue"
+Wheeler High School,"375 Holt Road Marietta, GA 30068",Wildcats,"Navy, Gold & White"
+Wheeler County High School,"50 Snowhill Road Alamo, GA 30411",Bulldogs,Red & Black
+White County High School,"2600 Highway 129 North Cleveland, GA 30528",Warriors,"Navy, White & Gray"
+Whitefield Academy,"1 Whitefield Drive Smyrna, GA 30126",WolfPack,Navy & Vegas Gold
+Whitewater High School,"100 Wildcat Way Fayetteville, GA 30215-7823",Wildcats,"Cardinal, Silver & Black"
+Wilcox County High School,"1358 HWY 215 South Rochelle, GA 31079",Patriots,"Royal Blue, White & Gold"
+Wilkinson County High School,"11481 Highway 57 Post Office Box 547 Irwinton, GA 31042",Warriors,Blue & Gold
+Winder-Barrow High School,"272 North Fifth Avenue Winder, GA 30680",Bulldoggs,Red & Black
+Windsor Forest High School,"12419 Largo Dr Savannah, GA 31419",Knights,Green & White
+Woodland High School,"800 Old Alabama Road Cartersville, GA 30121",Wildcats,"Cardinal, Navy & Silver"
+Woodland High School,"800 North Mosley Drive Stockbridge, GA 30281-2904",Wolfpack,Red & White
+Woodstock High School,"2010 Towne Lake Hills South Drive Woodstock, GA 30189",Wolverines,"Navy, Cardinal & White"
+Woodville-Tompkins High School,"151 Coach Joe Turner Street Savannah, GA 31408",Wolverines,Royal Blue & White
+Woodward Academy,"1662 Rugby Avenue College Park, GA 30337",War Eagles,Red & White
+Woody Gap School,"2331 State Highway 60 Suches, GA 30572-2903",Falcons,Maroon & Gold
+Worth County High School,"407 West Bryant Drive Sylvester, GA 31791",Rams,Black & Gold

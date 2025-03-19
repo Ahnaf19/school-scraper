@@ -7,6 +7,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
 import pandas as pd
+from loguru import logger as log
 
 from .scraper import get_data
 
@@ -23,36 +24,35 @@ def automation() -> pd.DataFrame:
     # Wait for the dropdown to load
     wait = WebDriverWait(driver, 10)
 
-    # reading school names
+    # Reading school names
     with open("data/school_names.txt", "r", encoding="utf-8") as file:
-            school_names = [line.strip() for line in file.readlines()]
+        school_names = [line.strip() for line in file.readlines()]
     
     data = []            
 
     for i in range(len(school_names)):
-    # for _ in range(3):
-        
+        log.info(f"{i}")
         select_element = wait.until(EC.presence_of_element_located((By.ID, "edit-dropdown")))
 
         # Click the dropdown
         select_element.click()
 
         # Type "school_name" and press ARROW_DOWN & ENTER
-        # select_element.send_keys(school_names[i])
         select_element.send_keys(Keys.ARROW_DOWN)
         select_element.send_keys(Keys.ENTER)
 
         # Wait until the table with class 'directory-table' loads
         table_element = wait.until(EC.presence_of_element_located((By.CLASS_NAME, "directory-table")))
 
+        # Re-locate the element just before parsing it to avoid stale element
+        table_element = driver.find_element(By.CLASS_NAME, "directory-table")
+
         # Parse the table HTML with BeautifulSoup
         soup = BeautifulSoup(table_element.get_attribute("outerHTML"), "html.parser")
 
-        # Save the prettified HTML to a file
-        # with open("table.html", "w", encoding="utf-8") as file:
-        #     file.write(soup.prettify())  # Prettify formats the HTML nicely
-        
+        # Extract the data from the table
         per_school_data = get_data(soup)
+        
         data.append(per_school_data)
         
     df = pd.DataFrame(data)
