@@ -1,3 +1,4 @@
 .conda/
 scraper/
 __pycache__/
+data/grouped_data/
