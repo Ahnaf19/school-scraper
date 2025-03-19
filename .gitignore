@@ -1,1 +1,3 @@
 .conda/
+scraper/
+__pycache__/
