@@ -2,3 +2,5 @@
 scraper/
 __pycache__/
 data/grouped_data/
+data/grouped_data2/
+.vscode/
