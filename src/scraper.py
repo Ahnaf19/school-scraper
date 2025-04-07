@@ -16,7 +16,7 @@ def get_data(soup: BeautifulSoup | None = None) -> dict[str, str]:
         return {'issue': "No <tbody> found in table.html"}
 
     # Find all <tr> elements
-    tr_all = tbody.find_all("tr")
+    tr_all = tbody.find_all("tr") # type: ignore
     if not tr_all:
         print("No <tr> elements found in <tbody>")
         return {'issue': "No <tr> elements found in <tbody>"}
