@@ -4,7 +4,11 @@
 
 The **School Scraping** is a Python-based tool designed to automate the collection, processing, and analysis of school-related data. The project focuses on web scraping, data extraction, color-based sorting, and visualization. It provides a streamlined pipeline to scrape school data, process it based on business logic, and generate meaningful insights.
 
-## Its a freelancing work that I did and so saved the source code for future referece.
+Its a **freelancing work** that I did and so saved the source code for future referece.
+
+> Developed on: python 3.10.16
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Loguru](https://img.shields.io/badge/loguru-FF9C00?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MIT License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 ## 🚀 Features
 
@@ -35,6 +39,7 @@ school_scraping/
 │
 ├── school_scraping.ipynb     # Jupyter Notebook for exploratory data analysis
 ├── requirements.txt          # Python dependencies for the project
+├── LICENSE                   # License file for the project
 └── README.md                 # Project documentation
 ```
 
