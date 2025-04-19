@@ -12,6 +12,24 @@ from loguru import logger as log
 from .scraper import get_data
 
 def automation() -> pd.DataFrame:
+    """
+    Automates the process of scraping school data from the GHSA school directory website.
+    This function uses Selenium WebDriver to interact with the website, selects schools
+    from a dropdown menu, extracts data from a dynamically loaded table, and saves the
+    data into a CSV file. The extracted data is also returned as a pandas DataFrame.
+    Returns:
+        pd.DataFrame: A DataFrame containing the scraped school data.
+    Raises:
+        TimeoutException: If the elements on the webpage do not load within the specified time.
+        FileNotFoundError: If the file containing school names ("data/school_names.txt") is not found.
+        WebDriverException: If there is an issue initializing the Selenium WebDriver.
+    Notes:
+        - The function expects a file named "school_names.txt" in the "data/" directory,
+          containing the names of schools to be selected from the dropdown menu.
+        - The resulting CSV file is saved in the "data/" directory as "school_data.csv".
+        - The function runs the browser in headless mode by default.
+    """
+    
     # Set up Selenium WebDriver
     options = webdriver.ChromeOptions()
     options.add_argument("--headless")  # Remove to see browser actions

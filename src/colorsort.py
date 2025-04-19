@@ -3,6 +3,32 @@ import pandas as pd
 from .utils import ColorSort
 
 def main():
+    """
+    Main function to process and analyze school color data.
+    This function performs the following steps:
+    1. Reads school data from a CSV file.
+    2. Filters rows based on the presence of valid colors from a predefined set of reference colors.
+    3. Saves the filtered data to a new CSV file.
+    4. Assigns secondary color categories to the filtered data.
+    5. Groups the data by these secondary color categories and saves the grouped data to separate CSV files.
+    6. Reads the grouped data and identifies color combinations based on a specified threshold.
+    7. Visualizes the identified color combinations.
+    Constants:
+        SCHOOL_DATA_PATH (str): Path to the input CSV file containing school data.
+        DF_DIFF_PATH (str): Path to save the CSV file containing rows that were filtered out.
+        GROUP_FOLDER_PATH (str): Path to save grouped data files.
+    Dependencies:
+        - Requires the `ColorSort` class with the following methods:
+            - `isin_refcolors`: Checks if a color is in the reference color set.
+            - `get_diff_df`: Computes the difference between two DataFrames.
+            - `assign_f2_colors`: Assigns secondary color categories.
+            - `group_by_f2_colors`: Groups data by secondary color categories and saves to files.
+            - `read_group_data`: Reads grouped data from files.
+            - `get_color_combos`: Identifies color combinations based on a threshold.
+            - `plot_color_combos`: Visualizes color combinations.
+    Returns:
+        None
+    """
     SCHOOL_DATA_PATH = "data/school_data.csv"
     DF_DIFF_PATH = "data/school_data_diff.csv"
     GROUP_FOLDER_PATH = "data/grouped_data3"

@@ -3,6 +3,27 @@ from loguru import logger as log
 
 
 def get_data(soup: BeautifulSoup | None = None) -> dict[str, str]:
+    """
+    Extracts school-related data from an HTML table.
+    This function parses an HTML table to extract the school name, address, colors, 
+    and mascot. If no BeautifulSoup object is provided, it reads the HTML content 
+    from a file named "data/table.html".
+    Args:
+        soup (BeautifulSoup | None): A BeautifulSoup object representing the parsed 
+            HTML content. If None, the function will read and parse the HTML from 
+            "data/table.html".
+    Returns:
+        dict[str, str]: A dictionary containing the extracted data with the following keys:
+            - "school_name": The name of the school.
+            - "address": The address of the school.
+            - "mascot": The mascot of the school.
+            - "colors": The colors associated with the school.
+    Notes:
+        - If the <tbody> element or <tr> elements are missing, the function will return 
+          a dictionary with an "issue" key describing the problem.
+        - The function handles cases where "Colors" or "Mascot" rows are missing by 
+          assigning default values ("N/A").
+    """
     
     if not soup:
         # Read the saved HTML file
