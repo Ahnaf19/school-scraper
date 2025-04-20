@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 import re
 from typing import Tuple
 import pandas as pd
@@ -23,6 +24,8 @@ class ColorSort:
         Splits the grouped DataFrame into two: one above the threshold and one below, combining the below-threshold rows into an "Other" category.
     plot_color_combos(df_final: pd.DataFrame, df_below: pd.DataFrame) -> None
         Plots a bar chart of color combinations, highlighting the "Other" category if present.
+    merge_small_groups(GROUP_FOLDER_PATH: str, threshold: int = 10) -> pd.DataFrame
+        Merges rows of CSV files in the specified folder that have less than the given threshold of rows.
     """
     
     @staticmethod
@@ -222,3 +225,40 @@ class ColorSort:
             combos = ", ".join(df_below["color_combo"].tolist())
             bars[idx].set_color("lightcoral")
             plt.text(idx, df_final["count"].iloc[idx] + 1, f"{len(df_below)} combos", ha='center', va='bottom', fontsize=8)
+    
+    @staticmethod
+    def merge_small_groups(GROUP_FOLDER_PATH: str, threshold: int = 10) -> pd.DataFrame:
+        """
+        Merges rows of CSV files in the specified folder that have less than the given threshold of rows.
+        Args:
+            GROUP_FOLDER_PATH (str): The directory path containing the grouped CSV files.
+            threshold (int, optional): The minimum number of rows a file must have to avoid merging. Defaults to 10.
+        Returns:
+            pd.DataFrame: A DataFrame containing the merged rows from all small groups.
+        Side Effects:
+            - Reads CSV files from the specified folder.
+            - Merges rows from files with fewer rows than the threshold.
+        Notes:
+            - The function assumes that the CSV files have a consistent structure.
+        """
+        merged_data = []
+
+        for filename in os.listdir(GROUP_FOLDER_PATH):
+            if filename.endswith(".csv"):
+                file_dir = Path(GROUP_FOLDER_PATH) / filename
+                df = pd.read_csv(file_dir)
+
+                if len(df) < threshold:
+                    merged_data.append(df)
+
+        if merged_data:
+            merged_df = pd.concat(merged_data, ignore_index=True)
+            print(f"Merged {len(merged_data)} small groups into a single DataFrame.")
+            
+            save_dir = Path(GROUP_FOLDER_PATH).parent
+            merged_df.to_csv(Path(save_dir / "merged_small_groups.csv"), index=False)
+            print(f"Merged DataFrame saved to {Path(save_dir / 'merged_small_groups.csv')}")
+            return merged_df
+        else:
+            print("No groups found with rows below the threshold.")
+            return pd.DataFrame()  # Return an empty DataFrame if no small groups are found
